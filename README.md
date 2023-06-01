@@ -1,4 +1,3 @@
-# TFM
-Sistema no supervisado detección ataques epilépticos
+# Datos
 
-Ejecutar el archivo principal scrip_tfm.m
+Insertar los datos que se van a usar desde el programa principal en esta carpeta
